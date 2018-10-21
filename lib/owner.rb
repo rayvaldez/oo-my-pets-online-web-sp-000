@@ -33,7 +33,7 @@ class Owner
   def buy_fish(fish)
     self.pets.each do |pet, count|
       if pet == :fishes
-        binding.pry
+        
       end
     end
   end
